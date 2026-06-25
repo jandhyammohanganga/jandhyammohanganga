@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohan Ganga Jandhyam</h1>
+<h1 align="center">Hi 👋, I'm Jandhyam Mohan Ganga</h1>
 
 <h3 align="center">
-RTL Design & ASIC Verification Engineer
+VLSI Design and Verification Engineer
 </h3>
 
 ---
