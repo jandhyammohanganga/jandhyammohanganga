@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+JANDHYAM+Mohan+Ganga;VLSI+Design+%26+Verification+Engineer;RTL+Design+%7C+SystemVerilog+%7C+UVM;Building+Reliable+Digital+Systems+One+Cycle+at+a+Time!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Jandhyam+Mohan+Ganga;VLSI+Design+%26+Verification+Engineer" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 
