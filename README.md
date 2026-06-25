@@ -87,14 +87,6 @@ https://github.com/jandhyammohanganga/APB-based-UART-Master-Core-RTL-Verificatio
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jandhyammohanganga&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jandhyammohanganga&layout=compact)
-
----
-
 ## 📫 Connect with Me
 
 LinkedIn:
