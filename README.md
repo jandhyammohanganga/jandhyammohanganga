@@ -10,66 +10,26 @@
 
 # 💫 About Me
 
-I'm **JANDHYAM Mohan Ganga**, a passionate **VLSI Design & Verification Engineer** with a strong interest in **RTL Design, Functional Verification, and UVM-based verification methodologies**.
+Aspiring **VLSI Design & Verification Engineer** currently sharpening my skills at Maven Silicon. With a foundation in Electronics and Communication Engineering. I'm diving deep into the world of chip design and digital verification and loving every moment of it.
 
-I enjoy designing digital hardware, building scalable verification environments, and continuously improving my understanding of semiconductor design and verification flows.
+My toolkit includes **Verilog**, **SystemVerilog**, and **UVM**, along with industry-standard tools like **Synopsys Design Compiler** and **Siemens QuestaSim**.
+But I don't stop there. When I'm not designing RTL or writing testbenches, I'm exploring AI tools, experimenting with new technologies, and staying curious about innovations that shape the future of electronics and computing.
 
 ### 🚀 A few things about me
 
-* 🔭 Currently working on **RTL Design & ASIC Verification Projects**
-* 🌱 Continuously learning **Advanced UVM, SystemVerilog, and Digital Design**
-* 💡 Passionate about building **clean, reusable, and scalable verification environments**
-* 🎯 Goal: Contribute to next-generation semiconductor products
+* 🧠 VLSI Design & Functional Verification
+*  🧪 Writing RTL code, testbenches & exploring UVM
+* 🔧 Solving real-world problems with a mix of hardware + code
 
 ---
 
 # 💻 Tech Stack
 
-## Languages
+**Languages**: Verilog, SystemVerilog, Embedded C
 
-![Verilog](https://img.shields.io/badge/Verilog-CC0000?style=for-the-badge)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0066CC?style=for-the-badge)
-![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+**Tools**: Synopsys DC, Siemens QuestaSim, Xilinx ISE, Arduino IDE
 
----
-
-## RTL Design & Verification
-
-![RTL Design](https://img.shields.io/badge/RTL_Design-0A66C2?style=for-the-badge)
-![Functional Verification](https://img.shields.io/badge/Functional_Verification-009688?style=for-the-badge)
-![UVM](https://img.shields.io/badge/UVM-8A2BE2?style=for-the-badge)
-
----
-
-## EDA Tools
-
-![Synopsys](https://img.shields.io/badge/Synopsys_DC-E31837?style=for-the-badge)
-![QuestaSim](https://img.shields.io/badge/Siemens_QuestaSim-0085CA?style=for-the-badge)
-![Xilinx](https://img.shields.io/badge/Xilinx_ISE-E01F27?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-1A73E8?style=for-the-badge)
-![LTspice](https://img.shields.io/badge/LTspice-900000?style=for-the-badge)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=jandhyammohanganga\&theme=onedark\&no-frame=true\&row=1\&column=7)
-
----
-
-# 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=jandhyammohanganga\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=jandhyammohanganga\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jandhyammohanganga\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
+**Tech Stack**: RTL Design, Functional Verification, UVM, Assertions (SVA), Functional Coverage, Constrained Random Verification, Scoreboard
 
 # 🚀 Featured Projects
 
