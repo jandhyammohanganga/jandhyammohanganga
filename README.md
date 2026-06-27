@@ -105,8 +105,7 @@ framing, timeout, and overrun error handling.
 ## 🎯 2026 Goals
 
 - Complete 60 RTL Challenges
-- Build 15+ Verification Projects
-- Master UVM
+- Master Advanced Systemverilog and UVM
 - Learn PCIe & AXI Protocols
 - Contribute to Open Source
 
