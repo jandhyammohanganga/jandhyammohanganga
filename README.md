@@ -20,17 +20,17 @@
 ## 🧑‍💻 Who Am I?
 
 ```
-┌──────────────────────────────────────────────────────────────────────┐
+┌─────────────────────────────────────────────────────────────────────┐
 │                                                                      │
-│   Name     : Jandhyam Mohan Ganga                                   │
-│   Role     : VLSI Design & Verification Engineer (Fresher)          │
-│   Focus    : RTL Design · Functional Verification · UVM             │
-│   Tools    : QuestaSim · VCS · Design Compiler · Xilinx ISE        │
-│   OS       : Linux (primary) · Windows                              │
-│   Writing  : Weekly VLSI history articles on LinkedIn               │
-│   Open To  : Full-time VLSI Design / Verification roles in India    │
+│   Name     : Jandhyam Mohan Ganga                                    │
+│   Role     : VLSI Design & Verification Engineer (Fresher)           │
+│   Focus    : RTL Design · Functional Verification · UVM              │
+│   Tools    : QuestaSim · VCS · Design Compiler · Xilinx ISE          │
+│   OS       : Linux (primary) · Windows                               │
+│   Writing  : Weekly VLSI history posts on LinkedIn                   │
+│   Open To  : Full-time VLSI Design / Verification roles              │
 │                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 I'm a passionate VLSI engineer who builds **end-to-end verification environments** — from writing synthesizable RTL to achieving functional coverage closure with UVM. I believe a chip is only as good as its verification, and I take that seriously.
