@@ -8,7 +8,7 @@
 
 ---
 
-## 🧑‍💻 Who Am I?
+## 🧑‍💻 About Me
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -141,19 +141,16 @@ endclass
 
 ## 🎯 2026 Goals
 
-- [x] Build a complete UVM environment with RAL model *(done — UART project)*
-- [x] Achieve functional coverage closure on a real protocol *(done — APB/UART)*
-- [ ] Complete **60 RTL Challenges** and publish solutions on GitHub
-- [ ] Build and publish a **full AXI4 UVM Verification Environment**
-- [ ] Add **Python/Tcl automation scripts** to all projects
-- [ ] Write **10 detailed LinkedIn articles** on VLSI verification techniques
-- [ ] Land a role at a **product semiconductor company**
+- Complete 60 RTL Challenges
+- Master Advanced Systemverilog and UVM
+- Learn PCIe & AXI Protocols
+- Contribute to Open Source
 
 ---
 
 ## ✍️ I Write About VLSI
 
-Every week I publish articles on LinkedIn exploring key milestones, innovations, and engineers that shaped the semiconductor industry.
+Every week, I post on LinkedIn exploring the key milestones, innovations, and engineers that shaped the semiconductor industry.
 
 🔗 **[Follow me on LinkedIn →](https://www.linkedin.com/in/jandhyam-mohan-ganga/)**
 
