@@ -1,3 +1,13 @@
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jandhyammohanganga&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jandhyammohanganga&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 # <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Jandhyam+Mohan+Ganga;VLSI+Design+%26+Verification+Engineer" alt="Typing SVG" />
@@ -27,11 +37,11 @@ But I don't stop there. When I'm not designing RTL or writing testbenches, I'm e
 
 # 💻 Tech Stack
 
-#🔹**Languages**: Verilog, SystemVerilog, Embedded C
+🔹**Languages**: Verilog, SystemVerilog, Embedded C
 
-#🔹**Tools**: Synopsys DC, Siemens QuestaSim, Xilinx ISE, Arduino IDE
+🔹**Tools**: Synopsys DC, Siemens QuestaSim, Xilinx ISE, Arduino IDE
 
-#🔹**Tech Stack**: RTL Design, Functional Verification, UVM, Assertions (SVA), Functional Coverage, Constrained Random Verification, Scoreboard
+🔹**Tech Stack**: RTL Design, Functional Verification, UVM, Assertions (SVA), Functional Coverage, Constrained Random Verification, Scoreboard
 
 # 🚀 Featured Projects
 
