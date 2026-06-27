@@ -27,11 +27,11 @@ But I don't stop there. When I'm not designing RTL or writing testbenches, I'm e
 
 # 💻 Tech Stack
 
-**Languages**: Verilog, SystemVerilog, Embedded C
+#🔹**Languages**: Verilog, SystemVerilog, Embedded C
 
-**Tools**: Synopsys DC, Siemens QuestaSim, Xilinx ISE, Arduino IDE
+#🔹**Tools**: Synopsys DC, Siemens QuestaSim, Xilinx ISE, Arduino IDE
 
-**Tech Stack**: RTL Design, Functional Verification, UVM, Assertions (SVA), Functional Coverage, Constrained Random Verification, Scoreboard
+#🔹**Tech Stack**: RTL Design, Functional Verification, UVM, Assertions (SVA), Functional Coverage, Constrained Random Verification, Scoreboard
 
 # 🚀 Featured Projects
 
