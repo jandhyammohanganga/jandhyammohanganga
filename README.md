@@ -1,11 +1,6 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C2FF&height=200&section=header&text=Jandhyam%20Mohan%20Ganga&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=VLSI%20Design%20%26%20Verification%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=SystemVerilog+%7C+UVM+%7C+RTL+Design;APB+%7C+UART+%7C+AMBA+Protocols;Functional+Coverage+%7C+SVA+%7C+RAL+Model;Building+Bug-Free+Silicon+Before+Tape-Out" alt="Typing SVG" />
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jandhyam-mohan-ganga/)
 [![Gmail](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jandhyammohanganga82663@gmail.com)
