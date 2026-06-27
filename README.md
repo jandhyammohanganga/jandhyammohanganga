@@ -41,16 +41,6 @@ I'm a passionate VLSI engineer who builds **end-to-end verification environments
 
 ## ⚡ Technical Skills at a Glance
 
-<div align="center">
-
-![Verilog](https://img.shields.io/badge/Verilog_HDL-Intermediate-0077B5?style=flat-square)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-Intermediate-00C2FF?style=flat-square)
-![UVM](https://img.shields.io/badge/UVM_Methodology-Intermediate-brightgreen?style=flat-square)
-![SVA](https://img.shields.io/badge/SVA_Assertions-Intermediate-orange?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Beginner-yellow?style=flat-square&logo=python&logoColor=white)
-![Tcl](https://img.shields.io/badge/Tcl_Scripting-Beginner-lightgrey?style=flat-square)
-
-</div>
 
 | Domain | Skills |
 |--------|--------|
