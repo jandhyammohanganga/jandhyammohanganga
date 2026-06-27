@@ -24,13 +24,21 @@ Beyond VLSI, I enjoy experimenting with emerging technologies, AI-powered tools,
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-🔹**Languages**: Verilog, SystemVerilog, Embedded C
+<p align="center">
 
-🔹**Tools**: Synopsys DC, Siemens QuestaSim, Xilinx ISE, Arduino IDE
+<img src="https://skillicons.dev/icons?i=c,cpp,java,arduino"/>
 
-🔹**Tech Stack**: RTL Design, Functional Verification, UVM, Assertions (SVA), Functional Coverage, Constrained Random Verification, Scoreboard
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Verilog-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SystemVerilog-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UVM-blueviolet?style=for-the-badge"/>
+
+</p>
 
 ---
 
