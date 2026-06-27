@@ -39,7 +39,7 @@ But I don't stop there. When I'm not designing RTL or writing testbenches, I'm e
 
 🔗 **Repository:** [Click Here](https://github.com/jandhyammohanganga/Router-1X3-Design-and-Verification)
 
-- RTL Design in Verilog
+- Designed a 1×3 router in Verilog to route an 8-bit input signal to three destinations using the OSI protocol, along with synthesizable RTL and a functional Verilog testbench.
 - FSM Based Architecture
 - Functional Verification
 - Testbench Development
