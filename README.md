@@ -18,9 +18,10 @@ Beyond VLSI, I enjoy experimenting with emerging technologies, AI-powered tools,
 
 ### 🚀 Areas of Interest
 
-* 🧠 VLSI Design & Functional Verification
-*  🧪 Writing RTL code, testbenches & exploring UVM
-* 🔧 Solving real-world problems with a mix of hardware + code
+- 🧠 VLSI Design & Functional Verification
+- 🤖 Exploring AI tools for productivity and engineering
+- 🌄 Trekking and discovering new places
+- 📝 Publishing weekly LinkedIn posts exploring key milestones and innovations in VLSI history
 
 ---
 
@@ -54,7 +55,6 @@ Beyond VLSI, I enjoy experimenting with emerging technologies, AI-powered tools,
 - Constrain Random Coverage Driven Verification(CRCDV)
 - Assertion-Based Verification
 - AMBA Protocols
-- AI-Assisted Engineering Workflows
 
 ---
 
