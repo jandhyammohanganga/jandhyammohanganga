@@ -16,7 +16,7 @@ Beyond VLSI, I enjoy experimenting with emerging technologies, AI-powered tools,
 
 ---
 
-### 🚀 A few things about me
+### 🚀 Areas of Interest
 
 * 🧠 VLSI Design & Functional Verification
 *  🧪 Writing RTL code, testbenches & exploring UVM
@@ -24,35 +24,42 @@ Beyond VLSI, I enjoy experimenting with emerging technologies, AI-powered tools,
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Skills
 
-<p align="center">
+###  **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,arduino"/>
+- Verilog HDL
+- Systemverilog
+- Python
 
-</p>
+###  **Design**
 
-<p align="center">
+- RTL Design
+- Finite State Machine Design
+- Digital Logid Design
 
-<img src="https://img.shields.io/badge/Verilog-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SystemVerilog-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UVM-blueviolet?style=for-the-badge"/>
+###  **Verification**
 
-</p>
+- Universal Verification Methodology (UVM)
+- Constrained Random Verification
+- SystemVerilog Assertions (SVA)
+- Scoreboard & Reference Models
+- Functional Coverage
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced SystemVerilog
+- Advanced SystemVerilog and UVM Concepts
 - Constrain Random Coverage Driven Verification(CRCDV)
 - Assertion-Based Verification
 - AMBA Protocols
 - Low Power Verification
+- AI-Assisted Engineering Workflows
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🚦 Router 1×3 Design & Verification
 
@@ -96,23 +103,36 @@ framing, timeout, and overrun error handling.
 
 ---
 
-# 🌐 Let's Connect
+## 🎯 2026 Goals
 
-<p align="left">
+- Complete 60 RTL Challenges
+- Build 15+ Verification Projects
+- Master UVM
+- Learn PCIe & AXI Protocols
+- Contribute to Open Source
+
+---
+
+# 🤝 Let's Connect
+
+I'm always open to discussing **VLSI Design**, **Functional Verification**, **Digital Design**, interesting engineering projects, or career opportunities. Feel free to connect!
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/jandhyam-mohan-ganga/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:jandhyammohanganga82663@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/jandhyammohanganga">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
+
 
 ---
 
