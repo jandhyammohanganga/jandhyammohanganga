@@ -48,7 +48,7 @@ But I don't stop there. When I'm not designing RTL or writing testbenches, I'm e
 
 ### 📡 APB UART Verification
 
-🔗 **Repository:** [Click Here](YOUR_REPO_LINK)
+🔗 **Repository:** [Click Here](https://github.com/jandhyammohanganga/APB-based-UART-Master-Core-RTL-Verification)
 
 - Complete UVM Environment
 - RAL Model
