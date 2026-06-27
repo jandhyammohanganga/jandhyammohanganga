@@ -37,7 +37,7 @@ But I don't stop there. When I'm not designing RTL or writing testbenches, I'm e
 
 ### 🚦 Router 1×3 Design & Verification
 
-🔗 **Repository:** [Click Here](YOUR_REPO_LINK)
+🔗 **Repository:** [Click Here](https://github.com/jandhyammohanganga/Router-1X3-Design-and-Verification)
 
 - RTL Design in Verilog
 - FSM Based Architecture
