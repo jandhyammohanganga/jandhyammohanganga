@@ -10,10 +10,9 @@
 
 # 💫 About Me
 
-Aspiring **VLSI Design & Verification Engineer** currently sharpening my skills at Maven Silicon. With a foundation in Electronics and Communication Engineering. I'm diving deep into the world of chip design and digital verification and loving every moment of it.
+Aspiring **VLSI Design & Verification Engineer** with a strong foundation in **RTL Design, Functional Verification**, and **UVM**. Passionate about building reliable digital systems and exploring how modern chips are designed, verified, and optimized.
 
-My toolkit includes **Verilog**, **SystemVerilog**, and **UVM**, along with industry-standard tools like **Synopsys Design Compiler** and **Siemens QuestaSim**.
-But I don't stop there. When I'm not designing RTL or writing testbenches, I'm exploring AI tools, experimenting with new technologies, and staying curious about innovations that shape the future of electronics and computing.
+Beyond VLSI, I enjoy experimenting with emerging technologies, AI-powered tools, and embedded systems, always looking for opportunities to learn and build something meaningful.
 
 ---
 
@@ -35,6 +34,16 @@ But I don't stop there. When I'm not designing RTL or writing testbenches, I'm e
 
 ---
 
+## 🌱 Currently Learning
+
+- Advanced SystemVerilog
+- Constrain Random Coverage Driven Verification(CRCDV)
+- Assertion-Based Verification
+- AMBA Protocols
+- Low Power Verification
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🚦 Router 1×3 Design & Verification
@@ -53,13 +62,29 @@ framing, timeout, and overrun error handling.
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Stats
 
-- Advanced SystemVerilog
-- Constrain Random Coverage Driven Verification(CRCDV)
-- Assertion-Based Verification
-- AMBA Protocols
-- Low Power Verification
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jandhyammohanganga&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jandhyammohanganga&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandhyammohanganga&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jandhyammohanganga&theme=tokyo-night)](https://github.com/jandhyammohanganga)
 
 ---
 
@@ -83,24 +108,8 @@ framing, timeout, and overrun error handling.
 
 ---
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandhyammohanganga&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jandhyammohanganga&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jandhyammohanganga&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 <div align="center">
 
