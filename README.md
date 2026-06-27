@@ -40,9 +40,6 @@ But I don't stop there. When I'm not designing RTL or writing testbenches, I'm e
 🔗 **Repository:** [Click Here](https://github.com/jandhyammohanganga/Router-1X3-Design-and-Verification)
 
 - Designed a 1×3 router in Verilog to route an 8-bit input signal to three destinations using the OSI protocol, along with synthesizable RTL and a functional Verilog testbench.
-- FSM Based Architecture
-- Functional Verification
-- Testbench Development
 
 ---
 
@@ -50,10 +47,8 @@ But I don't stop there. When I'm not designing RTL or writing testbenches, I'm e
 
 🔗 **Repository:** [Click Here](https://github.com/jandhyammohanganga/APB-based-UART-Master-Core-RTL-Verification)
 
-- Complete UVM Environment
-- RAL Model
-- Functional Coverage
-- Assertions
+- Developed a UVM-based verification environment for an APB-UART core and verified APB protocol compliance and UART functionalities such as full-duplex, half-duplex, loopback, parity,
+framing, timeout, and overrun error handling.
 
 ---
 
