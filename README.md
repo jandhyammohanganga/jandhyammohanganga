@@ -24,12 +24,6 @@ But I don't stop there. When I'm not designing RTL or writing testbenches, I'm e
 * 🔧 Solving real-world problems with a mix of hardware + code
 
 ---
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandhyammohanganga&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
----
 
 # 💻 Tech Stack
 
@@ -75,6 +69,12 @@ But I don't stop there. When I'm not designing RTL or writing testbenches, I'm e
 </a>
 
 </p>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandhyammohanganga&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 ## 📊 GitHub Stats
