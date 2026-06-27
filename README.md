@@ -3,16 +3,12 @@
 <!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C2FF&height=200&section=header&text=Jandhyam%20Mohan%20Ganga&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=VLSI%20Design%20%26%20Verification%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=SystemVerilog+%7C+UVM+%7C+RTL+Design;APB+%7C+UART+%7C+AMBA+Protocols;Functional+Coverage+%7C+SVA+%7C+RAL+Model;Building+Bug-Free+Silicon+Before+Tape-Out" alt="Typing SVG" />
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=SystemVerilog+%7C+UVM+%7C+RTL+Design;APB+%7C+UART+%7C+AMBA+Protocols;Functional+Coverage+%7C+SVA+%7C+RAL+Model;Building+Bug-Free+Silicon+Before+Tape-Out+%F0%9F%94%A5" alt="Typing SVG" />
-
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jandhyam-mohan-ganga/)
-[![Gmail](https://img.shields.io/badge/Email-jandhyammohanganga82663%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jandhyammohanganga82663@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jandhyammohanganga82663@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jandhyammohanganga-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jandhyammohanganga)
 [![Profile Views](https://komarev.com/ghpvc/?username=jandhyammohanganga&style=for-the-badge&color=0077B5&label=Profile+Views)](https://github.com/jandhyammohanganga)
 
@@ -23,17 +19,17 @@
 ## 🧑‍💻 Who Am I?
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
+┌──────────────────────────────────────────────────────────────────────┐
 │                                                                      │
-│   Name     : Jandhyam Mohan Ganga                                    │
-│   Role     : VLSI Design & Verification Engineer (Fresher)           │
-│   Focus    : RTL Design · Functional Verification · UVM              │
-│   Tools    : QuestaSim · VCS · Design Compiler · Xilinx ISE          │
-│   OS       : Linux (primary) · Windows                               │
-│   Writing  : Weekly VLSI history articles on LinkedIn                │
-│   Open To  : Full-time VLSI Design / Verification roles in India     │
+│   Name     : Jandhyam Mohan Ganga                                   │
+│   Role     : VLSI Design & Verification Engineer (Fresher)          │
+│   Focus    : RTL Design · Functional Verification · UVM             │
+│   Tools    : QuestaSim · VCS · Design Compiler · Xilinx ISE        │
+│   OS       : Linux (primary) · Windows                              │
+│   Writing  : Weekly VLSI history articles on LinkedIn               │
+│   Open To  : Full-time VLSI Design / Verification roles in India    │
 │                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 I'm a passionate VLSI engineer who builds **end-to-end verification environments** — from writing synthesizable RTL to achieving functional coverage closure with UVM. I believe a chip is only as good as its verification, and I take that seriously.
@@ -46,9 +42,7 @@ I'm a passionate VLSI engineer who builds **end-to-end verification environments
 
 <div align="center">
 
-### 🔵 Languages & Methodologies
-
-![Verilog](https://img.shields.io/badge/Verilog_HDL-Intermediate-0077B5?style=flat-square&logo=v&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog_HDL-Intermediate-0077B5?style=flat-square)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-Intermediate-00C2FF?style=flat-square)
 ![UVM](https://img.shields.io/badge/UVM_Methodology-Intermediate-brightgreen?style=flat-square)
 ![SVA](https://img.shields.io/badge/SVA_Assertions-Intermediate-orange?style=flat-square)
@@ -91,7 +85,7 @@ I'm a passionate VLSI engineer who builds **end-to-end verification environments
 
 **Tech Stack:** `SystemVerilog` · `UVM` · `SVA` · `APB Protocol` · `UART` · `Mentor QuestaSim`
 
-[![View Repo](https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jandhyammohanganga/APB-based-UART-Master-Core-RTL-Verification)
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jandhyammohanganga/APB-based-UART-Master-Core-RTL-Verification)
 
 ---
 
@@ -99,7 +93,7 @@ I'm a passionate VLSI engineer who builds **end-to-end verification environments
 
 > *Synthesizable RTL packet router with automated pass/fail testbench*
 
-**The Problem:** Routers are fundamental building blocks in SoCs and NoC (Network-on-Chip) architectures. Getting the packet routing logic right — especially under concurrent multi-channel traffic — requires rigorous verification.
+**The Problem:** Routers are fundamental building blocks in SoCs and NoC architectures. Getting the packet routing logic right — especially under concurrent multi-channel traffic — requires rigorous verification.
 
 **What I Built:**
 
@@ -111,7 +105,7 @@ I'm a passionate VLSI engineer who builds **end-to-end verification environments
 
 **Tech Stack:** `Verilog HDL` · `RTL Design` · `Self-Checking Testbench` · `Mentor QuestaSim`
 
-[![View Repo](https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jandhyammohanganga/Router-1X3-Design-and-Verification)
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jandhyammohanganga/Router-1X3-Design-and-Verification)
 
 ---
 
@@ -156,17 +150,17 @@ I'm a passionate VLSI engineer who builds **end-to-end verification environments
 
 class mohan_learning_plan;
 
-  // ✅ Actively studying
-  string advanced_uvm[]   = '{"UVM Factories", "Callbacks", "Virtual Sequences", "Phasing"};
-  string crcdv[]          = '{"Coverage-Driven Verification", "Functional Coverage Closure"};
-  string abv[]            = '{"Assertion-Based Verification", "Formal Property Checking"};
+  // Actively studying
+  string advanced_uvm[] = '{"UVM Factories", "Callbacks", "Virtual Sequences", "Phasing"};
+  string crcdv[]        = '{"Coverage-Driven Verification", "Functional Coverage Closure"};
+  string abv[]          = '{"Assertion-Based Verification", "Formal Property Checking"};
 
-  // 🔄 In progress
-  string protocols[]      = '{"AXI4-Full", "AXI4-Lite", "AXI4-Stream", "PCIe Basics"};
+  // In progress
+  string protocols[]    = '{"AXI4-Full", "AXI4-Lite", "AXI4-Stream", "PCIe Basics"};
 
-  // 📅 Up next
-  string scripting[]      = '{"Python for log parsing", "Tcl for EDA automation"};
-  string soc_concepts[]   = '{"Low-Power Design", "Clock Domain Crossing (CDC)"};
+  // Up next
+  string scripting[]    = '{"Python for log parsing", "Tcl for EDA automation"};
+  string soc_concepts[] = '{"Low-Power Design", "Clock Domain Crossing (CDC)"};
 
 endclass
 ```
@@ -187,10 +181,7 @@ endclass
 
 ## ✍️ I Write About VLSI
 
-Every week, I publish articles on LinkedIn exploring:
-- Key milestones and innovations in VLSI history
-- Semiconductor engineering deep dives
-- Verification methodology breakdowns
+Every week I publish articles on LinkedIn exploring key milestones, innovations, and engineers that shaped the semiconductor industry.
 
 🔗 **[Follow me on LinkedIn →](https://www.linkedin.com/in/jandhyam-mohan-ganga/)**
 
@@ -202,8 +193,8 @@ I'm actively looking for **VLSI Design & Verification** roles (fresher / entry-l
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jandhyam-mohan-ganga/)
-[![Gmail](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jandhyammohanganga82663@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jandhyam-mohan-ganga/)
+[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jandhyammohanganga82663@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jandhyammohanganga)
 
 </div>
