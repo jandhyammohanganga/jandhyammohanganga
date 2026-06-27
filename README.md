@@ -52,6 +52,16 @@ framing, timeout, and overrun error handling.
 
 ---
 
+## 🌱 Currently Learning
+
+- Advanced SystemVerilog
+- Constrain Random Coverage Driven Verification(CRCDV)
+- Assertion-Based Verification
+- AMBA Protocols
+- Low Power Verification
+
+---
+
 # 🌐 Let's Connect
 
 <p align="left">
