@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
+<-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C2FF&height=200&section=header&text=Jandhyam%20Mohan%20Ganga&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=VLSI%20Design%20%26%20Verification%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
