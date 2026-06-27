@@ -33,6 +33,8 @@ But I don't stop there. When I'm not designing RTL or writing testbenches, I'm e
 
 🔹**Tech Stack**: RTL Design, Functional Verification, UVM, Assertions (SVA), Functional Coverage, Constrained Random Verification, Scoreboard
 
+---
+
 ## 🚀 Featured Projects
 
 ### 🚦 Router 1×3 Design & Verification
