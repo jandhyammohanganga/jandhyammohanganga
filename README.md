@@ -10,18 +10,20 @@
 
 # 💫 About Me
 
-Aspiring **VLSI Design & Verification Engineer** with a strong foundation in **RTL Design, Functional Verification**, and **UVM**. Passionate about building reliable digital systems and exploring how modern chips are designed, verified, and optimized.
+Passionate about designing and verifying reliable digital systems with a strong interest in RTL Design, Functional Verification, and UVM.
 
-Beyond VLSI, I enjoy experimenting with emerging technologies, AI-powered tools, and embedded systems, always looking for opportunities to learn and build something meaningful.
+I enjoy understanding how modern semiconductor devices are built—from digital logic to complete SoC verification—and continuously improve my skills through hands-on projects, technical reading, and practical implementation.
+
+Outside of VLSI, I enjoy exploring AI-powered engineering tools, embedded systems, and sharing insights from semiconductor history through weekly LinkedIn articles.
 
 ---
 
 ### 🚀 Areas of Interest
 
-- 🧠 VLSI Design & Functional Verification
-- 🤖 Exploring AI tools for productivity and engineering
-- 🌄 Trekking and discovering new places
-- 📝 Publishing weekly LinkedIn posts exploring key milestones and innovations in VLSI history
+- VLSI Design & Functional Verification
+- Exploring AI tools for productivity and engineering
+- Trekking and discovering new places
+- Publishing weekly LinkedIn posts exploring key milestones and innovations in VLSI history
 
 ---
 
@@ -31,13 +33,13 @@ Beyond VLSI, I enjoy experimenting with emerging technologies, AI-powered tools,
 
 - Verilog HDL
 - Systemverilog
-- Python
 
 ###  **Design**
 
-- RTL Design
+- RTL Design and Simulation
 - Finite State Machine Design
-- Digital Logid Design
+- Digital Logic Circuits
+- Memories
 
 ###  **Verification**
 
@@ -46,6 +48,12 @@ Beyond VLSI, I enjoy experimenting with emerging technologies, AI-powered tools,
 - SystemVerilog Assertions (SVA)
 - Scoreboard & Reference Models
 - Functional Coverage
+
+### EDA Tools
+- Mentor Graphics QuestaSim
+- Synopsys Design Compiler
+- Synopsys VCS
+- Xilinx ISE
 
 ---
 
@@ -64,15 +72,19 @@ Beyond VLSI, I enjoy experimenting with emerging technologies, AI-powered tools,
 
 🔗 **Repository:** [Click Here](https://github.com/jandhyammohanganga/Router-1X3-Design-and-Verification)
 
-- Designed a 1×3 router in Verilog to route an 8-bit input signal to three destinations using the OSI protocol, along with synthesizable RTL and a functional Verilog testbench.
+- Designed synthesizable RTL for a 1×3 packet router in Verilog.
+- Developed a self-checking Verilog testbench for functional validation.
+- Verified packet routing functionality across multiple destination channels.
 
 
-### 📡 APB UART Verification
+### 📡 APB-based-UART-Master-Core-RTL-Verification
 
 🔗 **Repository:** [Click Here](https://github.com/jandhyammohanganga/APB-based-UART-Master-Core-RTL-Verification)
 
-- Developed a UVM-based verification environment for an APB-UART core and verified APB protocol compliance and UART functionalities such as full-duplex, half-duplex, loopback, parity,
-framing, timeout, and overrun error handling.
+- Developed a reusable UVM verification environment.
+- Verified APB protocol compliance and UART functionality.
+- Implemented RAL model, constrained random verification, assertions, and functional coverage.
+- Achieved coverage closure using SystemVerilog Assertions and Functional Coverage.
 
 ---
 
@@ -139,9 +151,13 @@ I'm always open to discussing **VLSI Design**, **Functional Verification**, **Di
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-*"Design with precision. Verify with confidence. Deliver with quality."*
+### "Every great chip begins with a well-designed RTL."
 
 </div>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jandhyammohanganga&style=for-the-badge&color=blue"/>
+
+</p>
   
