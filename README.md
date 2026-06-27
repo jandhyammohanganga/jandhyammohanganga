@@ -6,15 +6,6 @@
 
 </div>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jandhyam-mohan-ganga/)
-[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jandhyammohanganga82663@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-jandhyammohanganga-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jandhyammohanganga)
-[![Profile Views](https://komarev.com/ghpvc/?username=jandhyammohanganga&style=for-the-badge&color=0077B5&label=Profile+Views)](https://github.com/jandhyammohanganga)
-
-</div>
-
 ---
 
 ## 🧑‍💻 Who Am I?
@@ -177,11 +168,6 @@ I'm actively looking for **VLSI Design & Verification** roles (fresher / entry-l
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jandhyam-mohan-ganga/)
 [![Gmail](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jandhyammohanganga82663@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jandhyammohanganga)
+[![Profile Views](https://komarev.com/ghpvc/?username=jandhyammohanganga&style=for-the-badge&color=0077B5&label=Profile+Views)](https://github.com/jandhyammohanganga)
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0077B5&height=100&section=footer" width="100%"/>
 </div>
