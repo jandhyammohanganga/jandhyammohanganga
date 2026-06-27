@@ -54,8 +54,6 @@ I'm a passionate VLSI engineer who builds **end-to-end verification environments
 
 ## 🚀 Featured Projects
 
-> Click any project title to view the full repository with code, testbenches, and documentation.
-
 ---
 
 ### 📡 [APB-Based UART Master Core — RTL & Full UVM Verification](https://github.com/jandhyammohanganga/APB-based-UART-Master-Core-RTL-Verification)
@@ -100,37 +98,29 @@ I'm a passionate VLSI engineer who builds **end-to-end verification environments
 
 ---
 
-## 🏗️ What's Being Built Next
-
-| Project | Status | Tech |
-|---|---|---|
-| AXI4 UVM Verification Environment | 🔄 In Progress | `AXI4` `UVM` `SystemVerilog` |
-| SPI Protocol RTL + Testbench | 📅 Planned | `Verilog` `SPI` |
-| 60 RTL Challenges Series | 🔄 In Progress | `Verilog` `SystemVerilog` |
-| Python Log Parser for Sim Automation | 📅 Planned | `Python` `Tcl` |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jandhyammohanganga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jandhyammohanganga&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jandhyammohanganga&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandhyammohanganga&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jandhyammohanganga&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+<div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jandhyammohanganga&theme=tokyo-night&hide_border=true)](https://github.com/jandhyammohanganga)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandhyammohanganga&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jandhyammohanganga&theme=tokyo-night)](https://github.com/jandhyammohanganga)
 
 ---
 
