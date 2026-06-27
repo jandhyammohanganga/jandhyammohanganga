@@ -39,7 +39,7 @@ I'm a passionate VLSI engineer who builds **end-to-end verification environments
 | ✅ **Verification** | UVM (Agent, Driver, Monitor, Scoreboard, Sequencer), Constrained Random, Functional Coverage, SVA, RAL Model |
 | 🔌 **Protocols** | APB, UART, AHB · *(AXI4 — in progress)* |
 | 🛠️ **EDA Tools** | Mentor QuestaSim, Synopsys VCS, Synopsys Design Compiler, Xilinx ISE |
-| 💻 **Environment** | Linux CLI, Tcl scripting, Python (log parsing), Git, GitHub |
+| 💻 **Environment** | Linux CLI, Tcl scripting, Git, GitHub |
 
 ---
 
@@ -141,10 +141,13 @@ endclass
 
 ## 🎯 2026 Goals
 
-- Complete 60 RTL Challenges
-- Master Advanced Systemverilog and UVM
-- Learn PCIe & AXI Protocols
-- Contribute to Open Source
+- [x] Build a complete UVM environment with RAL model *(done — UART project)*
+- [x] Achieve functional coverage closure on a real protocol *(done — APB/UART)*
+- [ ] Complete **60 RTL Challenges** and publish solutions on GitHub
+- [ ] Build and publish a **full AXI4 UVM Verification Environment**
+- [ ] Add **Python/Tcl automation scripts** to all projects
+- [ ] Write **10 detailed LinkedIn articles** on VLSI verification techniques
+- [ ] Land a role at a **product semiconductor company**
 
 ---
 
