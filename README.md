@@ -54,7 +54,6 @@ Beyond VLSI, I enjoy experimenting with emerging technologies, AI-powered tools,
 - Constrain Random Coverage Driven Verification(CRCDV)
 - Assertion-Based Verification
 - AMBA Protocols
-- Low Power Verification
 - AI-Assisted Engineering Workflows
 
 ---
