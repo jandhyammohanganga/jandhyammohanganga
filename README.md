@@ -15,6 +15,8 @@ Aspiring **VLSI Design & Verification Engineer** currently sharpening my skills 
 My toolkit includes **Verilog**, **SystemVerilog**, and **UVM**, along with industry-standard tools like **Synopsys Design Compiler** and **Siemens QuestaSim**.
 But I don't stop there. When I'm not designing RTL or writing testbenches, I'm exploring AI tools, experimenting with new technologies, and staying curious about innovations that shape the future of electronics and computing.
 
+---
+
 ### 🚀 A few things about me
 
 * 🧠 VLSI Design & Functional Verification
