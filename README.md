@@ -33,22 +33,27 @@ But I don't stop there. When I'm not designing RTL or writing testbenches, I'm e
 
 🔹**Tech Stack**: RTL Design, Functional Verification, UVM, Assertions (SVA), Functional Coverage, Constrained Random Verification, Scoreboard
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 Router 1×3 Design & Verification
+### 🚦 Router 1×3 Design & Verification
 
-* RTL Design using Verilog
-* Packet Routing Architecture
-* FSM-Based Design
-* Functional Verification
+🔗 **Repository:** [Click Here](YOUR_REPO_LINK)
 
-### 🔹 APB-Based UART Master Core Verification
+- RTL Design in Verilog
+- FSM Based Architecture
+- Functional Verification
+- Testbench Development
 
-* UVM Testbench Development
-* APB Protocol Verification
-* Register Abstraction Layer (RAL)
-* Functional Coverage
-* SystemVerilog Assertions
+---
+
+### 📡 APB UART Verification
+
+🔗 **Repository:** [Click Here](YOUR_REPO_LINK)
+
+- Complete UVM Environment
+- RAL Model
+- Functional Coverage
+- Assertions
 
 ---
 
