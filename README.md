@@ -12,15 +12,15 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   Name     : Jandhyam Mohan Ganga                                    │
-│   Role     : VLSI Design & Verification Engineer (Fresher)           │
-│   Focus    : RTL Design · Functional Verification · UVM              │
-│   Tools    : QuestaSim · VCS · Design Compiler · Xilinx ISE          │
-│   OS       : Linux (primary) · Windows                               │
-│   Writing  : Weekly VLSI history posts on LinkedIn                   │
-│   Open To  : Full-time VLSI Design / Verification roles              │
-│                                                                      │
+│                                                                     │
+│   Name     : Jandhyam Mohan Ganga                                   │
+│   Role     : VLSI Design & Verification Engineer (Fresher)          │
+│   Focus    : RTL Design · Functional Verification · UVM             │
+│   Tools    : QuestaSim · VCS · Design Compiler · Xilinx ISE         │
+│   OS       : Linux (primary) · Windows                              │
+│   Writing  : Weekly VLSI history posts on LinkedIn                  │
+│   Open To  : Full-time VLSI Design / Verification roles             │
+│                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
